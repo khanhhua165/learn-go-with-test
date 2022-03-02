@@ -29,6 +29,6 @@ func gettingPrefix(language string) string {
 	}
 }
 
-func main() {
-	fmt.Println(Hello("Khanh", "Spanish"))
-}
+// func main() {
+// 	fmt.Println(Hello("Khanh", "Spanish"))
+// }
